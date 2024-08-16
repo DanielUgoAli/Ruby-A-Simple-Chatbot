@@ -1,4 +1,4 @@
-# Ruby: A Simple Chatbot
+# Ruby: A Simple Chatbot😃
 
 ## Overview
 
@@ -7,9 +7,9 @@ This repository contains the source code for Ruby, which can be easily run and t
 
 ## Things to know
 
-* Basic conversational interface *
-* Trained on a small dataset for demonstration purposes *
-* Uses PyTorch for natural language processing *
+* Basic conversational interface
+* Trained on a small dataset for demonstration purposes
+* Uses PyTorch for natural language processing
 
 ## To Get Started
 
@@ -67,4 +67,4 @@ python chat.py
 
 * Contributions are welcome!
 If you'd like to improve or expand Ruby's capabilities,
-please submit a pull request. *
+please submit a pull request.
