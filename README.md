@@ -17,28 +17,28 @@ To run Ruby, follow these simple steps:
 
 ### clone the repo
 
-``` git clone <https://github.com/D-A-N-1-3-6/Ruby-A-Simple-Chatbot.git> ```
+git clone <https://github.com/D-A-N-1-3-6/Ruby-A-Simple-Chatbot.git> ```
 
 ### Virtual Environment (conda)
 
-``` conda create -n {env name} python==3.x ```
+conda create -n {env name} python==3.x ```
 
 ### Navigate to the directory
 
-``` cd Ruby-A-Simple-Chatbot ```
+cd Ruby-A-Simple-Chatbot ```
 
 ### Activate virtual Environment
 
-``` conda activate {env name} ```
+conda activate {env name} ```
 
 ### Install requirements.txt
 
-``` pip install -r requirements.txt ```
+pip install -r requirements.txt ```
 
 ### Run the chatbot
 
-``` python chat.py ```
+python chat.py ```
 
-``` Contributions are welcome!
-If you'd like to improve or expand Ruby's capabilities, 
-please submit a pull request. ```
+Contributions are welcome!
+If you'd like to improve or expand Ruby's capabilities,
+please submit a pull request.
