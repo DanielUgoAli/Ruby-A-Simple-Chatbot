@@ -8,8 +8,8 @@ This repository contains the source code for Ruby, which can be easily run and t
 ## Things to know
 
 * Basic conversational interface
-* Trained on a small dataset for demonstration purposes
-* Uses PyTorch for natural language processing
+* Trained on a small dataset for demonstration purposes *
+` Uses PyTorch for natural language processing `
 
 ## To Get Started
 
