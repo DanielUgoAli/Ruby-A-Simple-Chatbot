@@ -15,7 +15,7 @@ This repository contains the source code for the chatbot, which can be easily ru
 
 To run Ruby, follow these simple steps:
 
-### clone the repo
+### Clone the repo
 
 ```bash
 git clone https://github.com/D-A-N-1-3-6/Ruby-A-Simple-Chatbot.git
