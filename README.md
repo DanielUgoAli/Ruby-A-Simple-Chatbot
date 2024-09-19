@@ -4,6 +4,7 @@
 
 This is a basic chatbot named Ruby and is a basic demonstration on the fundamentals of Natural Language Processing.
 This repository contains the source code for the chatbot, which can be easily run and tested on your local machine.
+NOTE: (THIS IS VERY REDUNDANTISH IT IS JUST TO UNDERSTAND BASIC NLP CONCEPTS 😅. IF U WANT TO USE IT PROPER MAKE SURE THE LOSS IS 0.00😅)
 
 ## Things to know
 
