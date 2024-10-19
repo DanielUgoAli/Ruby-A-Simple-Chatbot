@@ -67,5 +67,5 @@ python chat.py
 ![Alt text](https://github.com/D-A-N-1-3-6/Ruby-A-Simple-Chatbot/blob/main/readme-assets/chat.png)
 
 * Contributions are welcome!
-If you'd like to improve or expand Ruby's capabilities,
+If you'd like to play around,
 please submit a pull request.
