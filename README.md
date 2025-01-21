@@ -9,7 +9,7 @@ NOTE: (THIS IS VERY REDUNDANTISH IT IS JUST TO UNDERSTAND BASIC NLP CONCEPTS ðŸ˜
 ## Things to know
 
 * Basic conversational interface
-* Trained on a small dataset for demonstration purposes
+* Trained on a small dataset(Intent.json) for demonstration purposes
 * Uses PyTorch for natural language processing
 
 ## To Get Started
